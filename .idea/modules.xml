@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Back_end_pro.iml" filepath="$PROJECT_DIR$/Back_end_pro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_01/demo20240808/demo20240808.iml" filepath="$PROJECT_DIR$/Lesson_01/demo20240808/demo20240808.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_03/demo_spring_intro2/demo_spring_intro2.iml" filepath="$PROJECT_DIR$/Lesson_03/demo_spring_intro2/demo_spring_intro2.iml" />
     </modules>
   </component>
 </project>
